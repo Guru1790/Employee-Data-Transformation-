@@ -1,0 +1,4 @@
+Employee Code,Manager Employee Code,Date of Joining,Date of Exit,Compensation,Compensation 1,Compensation 1 date,Compensation 2,Compensation 2 date,Review 1,Review 1 date,Review 2,Review 2 date,Engagement 1,Engagement 1 date,Engagement 2,Engagement 2 date
+1,,2021-01-01,,20000,,,,,,,,,,,,
+2,1,2021-01-01,,20000,10000,2022-01-01,20000,2023-01-01,9,2021-06-01,9.5,2022-06-01,4,2021-03-01,5,2022-03-01
+3,1,2021-01-01,2023-12-31,20000,10000,2022-01-01,20000,2023-01-01,9,2021-06-01,9.5,2022-06-01,4,2021-03-01,5,2022-03-01
